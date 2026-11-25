@@ -1,16 +1,32 @@
-## Hi there 👋
+# Ricardo Antonio Gutierrez Gutierrez
 
-<!--
-**RicardoGG20/RicardoGG20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador full stack desde 2017. CTO en Gesttiona.
+Busco proyectos freelance, a medio tiempo o tiempo completo.
 
-Here are some ideas to get you started:
+Trujillo, Perú · [LinkedIn](https://www.linkedin.com/in/ricardogg20) · ricardo_gg_20@hotmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Ahora
+
+En Gesttiona defino la arquitectura, sigo el desarrollo y despliego
+services y jobs en Cloud Run con GitHub Actions. El producto es de
+asistencia y geolocalización: Laravel, Vue.js, Flutter, NestJS, Django
+y FastAPI.
+
+## Experiencia
+
+- **Flesan.** Analista de sistemas senior, con tres desarrolladores a cargo. Portal GGO, Sinergia y firmas electrónicas, plataformas usadas en Chile y Perú.
+- **E-Robot.** ERP Kontroller en Ruby on Rails, en paralelo con Gesttiona: compras, kardex, renting, flota, tareaje y georreferencias. PWA y ruteo multi-tenant por subdominio.
+- **SwanPeru.** Sistemas a medida con CodeIgniter y sitios en WordPress.
+
+## Stack
+
+Laravel · Vue.js · Ruby on Rails · Flutter · NestJS · Django · FastAPI
+Ruby · PHP · JavaScript · Python · Dart · SQL
+PostgreSQL · Docker · GitHub Actions · Google Cloud Run
+
+## Código público
+
+El producto en el que trabajo vive en repos privados.
+Lo que puedo mostrar está acá:
+
+- [player-notes](https://github.com/RicardoGG20/player-notes) — módulo en Laravel y Livewire, con repository pattern.
