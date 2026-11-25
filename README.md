@@ -15,7 +15,7 @@ y FastAPI.
 ## Experiencia
 
 - **Flesan.** Analista de sistemas senior, con tres desarrolladores a cargo. Portal GGO, Sinergia y firmas electrónicas, plataformas usadas en Chile y Perú.
-- **E-Robot.** ERP Kontroller en Ruby on Rails, en paralelo con Gesttiona: compras, kardex, renting, flota, tareaje y georreferencias. PWA y ruteo multi-tenant por subdominio.
+- **E-Robot.** ERP Kontroller en Ruby on Rails: compras, kardex, renting, flota, tareaje y georreferencias. PWA y ruteo multi-tenant por subdominio.
 - **SwanPeru.** Sistemas a medida con CodeIgniter y sitios en WordPress.
 
 ## Stack
